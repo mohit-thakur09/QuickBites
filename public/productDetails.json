@@ -1,0 +1,1158 @@
+[
+    {
+        "id": "p1",
+        "item_Name": "Pizza",
+        "pro_img_src": "../images/pizza-slice.jpg",
+        "all_data": [
+            {
+                "pro_id": "p1-1002",
+                "quantity": 1,
+                "pro_name": "AMERICAN CHEESY",
+                "item_img_src": "../pizza/American-cheesy.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "Our divine peruvian flavoured cheesy sauce, topped with sweet corn, green capsicum, red paprika and 100% mozzarella cheese, finished with a generous drizzle of texas garlic sauce.",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1010",
+                "quantity": 1,
+                "pro_name": "CHEESY MUSHROOM",
+                "item_img_src": "../pizza/cheesy-mushroom.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "A new combination with creamy mushroom sauce, chunky black olives, spicy jalapeno, juicy sweet corn, mushroom and 100% mozzarella cheese with garlic sprinkle for extra flavour hit.",
+                "price": 399,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1006",
+                "quantity": 1,
+                "pro_name": "CORN CHEESE",
+                "item_img_src": "../pizza/corn-cheese.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "A combination of juicy Sweet Corn & 100% mozzarella cheese with flavourful signature pan sauce.",
+                "price": 490,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1004",
+                "quantity": 1,
+                "pro_name": "COUNTRY FEAST",
+                "item_img_src": "../pizza/country-feast.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato with signature pan sauce and 100% Mozzarella cheese. It's a feast you can't refuse.",
+                "price": 340,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1005",
+                "quantity": 1,
+                "pro_name": "DHABE DA KEEMA",
+                "item_img_src": "../pizza/dhabe-da-keema.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100% mozzarella cheese & a generous drizzle of mint mayo.",
+                "price": 440,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1009",
+                "quantity": 1,
+                "pro_name": "FARMERS PICK",
+                "item_img_src": "../pizza/farmers-pick.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "Flavourful Herbed Onion and Green, crunchy Red Capsicum, yummy Mushrooms & Baby Corn with flavourful pan sauce and 100% mozzarella cheese.",
+                "price": 590,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1001",
+                "quantity": 1,
+                "pro_name": "MAKHNI PANEER",
+                "item_img_src": "../pizza/makhni-paneer.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with 100% mozzarella cheese and buttery spice sprinkle.",
+                "price": 199,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1007",
+                "quantity": 1,
+                "pro_name": "MARGHERITA",
+                "item_img_src": "../pizza/margherita.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!",
+                "price": 200,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1008",
+                "quantity": 1,
+                "pro_name": "MASHROOM MAGIC",
+                "item_img_src": "../pizza/mashroom-magic.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "A new combination with creamy mushroom sauce, chunky black olives, spicy jalapeno, juicy sweet corn, mushroom and 100% mozzarella cheese with garlic sprinkle for extra flavour hit.",
+                "price": 340,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1003",
+                "quantity": 1,
+                "pro_name": "MEXICAN FIESTA",
+                "item_img_src": "../pizza/mexican-fiesta.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella cheese with a signature spice sprinkle & our flavourful pan sauce.",
+                "price": 149,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1011",
+                "quantity": 1,
+                "pro_name": "MOMO MIA",
+                "item_img_src": "../pizza/momo-mia.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "Epic combination of signature pan crust, delicious paneer & veg momos topped with spicy Schezwan sauce, onion, capsicum, sweet corn & 100% mozzarella",
+                "price": 149,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1012",
+                "quantity": 1,
+                "pro_name": "SPICED PANEER",
+                "item_img_src": "../pizza/spiced-paneer.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "Spiced Paneer, crunchy Onion, juicy Tomato & 100% mozzarella cheese, with our classic pan sauce.",
+                "price": 990,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1012",
+                "quantity": 1,
+                "pro_name": "VIGGIE SUPREME",
+                "item_img_src": "../pizza/veggie-supreme.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": " A supreme combination of Black Olives, Green Capsicum, Mushroom, Onion, spicy Red Paprika & juicy Sweet Corn with flavourful pan sauce and 100% mozzarella cheese.",
+                "price": 990,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1012",
+                "quantity": 1,
+                "pro_name": "SPICED PANEER",
+                "item_img_src": "../pizza/spiced-paneer.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "Spiced Paneer, crunchy Onion, juicy Tomato & 100% mozzarella cheese, with our classic pan sauce.",
+                "price": 990,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1012",
+                "quantity": 1,
+                "pro_name": "TANDOORI PANEER",
+                "item_img_src": "../pizza/tandoori-paneer.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "It's our signature. Spiced Paneer, Crunchy Onions & Green Capsicum, spicy Red Paprika with delicious Tandoori Sauce and 100% mozzarella cheese!",
+                "price": 990,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1012",
+                "quantity": 1,
+                "pro_name": "TANDOORI VEGGIE",
+                "item_img_src": "../pizza/tandoori-veggie.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "An ultimate combination of your favourite veggies- onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo.",
+                "price": 990,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p1-1012",
+                "quantity": 1,
+                "pro_name": "VIGGIE FEAST",
+                "item_img_src": "../pizza/veggie-feast.jpg",
+                "toppings": [
+                    {
+                        "black olives": "../toppings/black olives.jpg"
+                    },
+                    {
+                        "capsicum": "../toppings/capsicum.jpg"
+                    },
+                    {
+                        "garlic": "../toppings/garlic.jpg"
+                    },
+                    {
+                        "jalapeno": "../toppings/jalapeno.jpg"
+                    },
+                    {
+                        "mushroom": "../toppings/mushroom.jpg"
+                    },
+                    {
+                        "paneer": "../toppings/paneer.jpg"
+                    },
+                    {
+                        "tomato": "../toppings/tomato.jpg"
+                    },
+                    {
+                        "pepper": "../toppings/pepper.jpg"
+                    }
+                ],
+                "discription": "Herbed onion and Green Capsicum, juicy Sweet Corn & 100% mozzarella cheese with flavourful pan sauce.",
+                "price": 990,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "p2",
+        "item_Name": "Baverages",
+        "pro_img_src": "../images/beverages.jpg",
+        "all_data": [
+            {
+                "pro_id": "p2-1001",
+                "quantity": 1,
+                "pro_name": "Pepsi",
+                "discription": "Contains Caffeine",
+                "item_img_src": "../baverages/pepsi.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p2-1003",
+                "quantity": 1,
+                "pro_name": "7-up",
+                "discription": "Contains Caffeine",
+                "item_img_src": "../baverages/7-up.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p2-1007",
+                "quantity": 1,
+                "pro_name": "Mirinda",
+                "discription": "Contains Caffeine",
+                "item_img_src": "../baverages/mirinda.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p2-1010",
+                "quantity": 1,
+                "pro_name": "Pepsi",
+                "discription": "Contains Caffeine",
+                "item_img_src": "../baverages/pepsi-black.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p2-1004",
+                "quantity": 1,
+                "pro_name": "Water Bottle",
+                "discription": "Packaged Drinking Water, A PepsiCo Product",
+                "item_img_src": "../baverages/water-bottle.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p2-1005",
+                "quantity": 1,
+                "pro_name": "Oreo Shake",
+                "item_img_src": "../baverages/Oreo.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p2-1006",
+                "quantity": 1,
+                "pro_name": "Cold Coffee",
+                "item_img_src": "../baverages/Cold-Coffee.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p2-1008",
+                "quantity": 1,
+                "pro_name": "Chocolate Shake",
+                "item_img_src": "../baverages/Chocolate.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p2-109",
+                "quantity": 1,
+                "pro_name": "Vanila Shake",
+                "item_img_src": "../baverages/vanilla.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p2-109",
+                "quantity": 1,
+                "pro_name": "Banana Shake",
+                "item_img_src": "../baverages/Banana.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p2-1001",
+                "quantity": 1,
+                "pro_name": "Lemon water",
+                "item_img_src": "../baverages/lemon.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "p3",
+        "item_Name": "Fries",
+        "pro_img_src": "../images/snacks.jpg",
+        "all_data": [
+            {
+                "pro_id": "p3-1001",
+                "quantity": 1,
+                "pro_name": "Standerd Fries",
+                "item_img_src": "../fries/st fries.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p3-1009",
+                "quantity": 1,
+                "pro_name": "Tater Tots",
+                "item_img_src": "../fries/tater.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p3-1002",
+                "quantity": 1,
+                "pro_name": "Garlic Fries",
+                "item_img_src": "../fries/garlic.webp",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p3-1003",
+                "quantity": 1,
+                "pro_name": "Cheese Fries",
+                "item_img_src": "../fries/cheeseFries.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p3-1005",
+                "quantity": 1,
+                "pro_name": "Tornado/Twister",
+                "item_img_src": "../fries/TornadoPotato.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p3-1006",
+                "quantity": 1,
+                "pro_name": "Cottage Fries",
+                "item_img_src": "../fries/cottage.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p3-1007",
+                "quantity": 1,
+                "pro_name": "Crinkle Cut Fries",
+                "item_img_src": "../fries/crinkle.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p3-1008",
+                "quantity": 1,
+                "pro_name": "Waffle Fries",
+                "item_img_src": "../fries/waffle.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            },
+            {
+                "pro_id": "p3-1004",
+                "quantity": 1,
+                "pro_name": "Curly Fries",
+                "item_img_src": "../fries/curly.jpg",
+                "price": 99,
+                "size": [
+                    {
+                        "Regular": "Rs. 199"
+                    },
+                    {
+                        "Medium": "Rs. 280"
+                    },
+                    {
+                        "Large": "Rs. 350"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "p4",
+        "item_Name": "Indian Snacks",
+        "pro_img_src": "../images/indian.jpg"
+    }
+]

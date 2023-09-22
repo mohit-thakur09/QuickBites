@@ -1,0 +1,47 @@
+.menu-option-card-right {
+    background: linear-gradient(to right,
+        #FFD40A 0%,
+        #FFD40A 50%,
+        #ffffbf 50%,
+        #ffffbf 100%);
+    transition: 0.3s ease;
+  }
+
+  .menu-option-card-left {
+    background: linear-gradient(to right,
+        #ffffbf 0%,
+        #ffffbf 50%,
+        #FFD40A 50%,
+        #FFD40A 100%);
+    transition: 0.3s ease;
+  }
+
+  .menu-option-card-right:hover {
+    transform: scale(1.1);
+  }
+
+  .menu-option-card-left:hover {
+    transform: scale(1.1);
+  }
+
+  .menu-heading {
+    width: 75%;
+  }
+
+  @media screen and (max-width: 768px) {
+    .menu-heading {
+      width: 100%;
+    }
+  }
+
+  .footer{
+    margin-top: 30px;
+  }
+  .quickbites-logo {
+    font-family: "Kaushan Script", cursive;
+  }
+
+  .sub-heading {
+    font-family: "Carter One", cursive;
+    font-weight: lighter;
+  }

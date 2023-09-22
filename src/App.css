@@ -1,0 +1,77 @@
+/* nav{
+    background-color: rgba(28, 27, 27, 1);
+    z-index: 11;
+}
+.nav-brand img:hover{
+    transform: rotate(1.2turn);
+    transition: 2s ease-out ;
+    filter: drop-shadow(16px 16px 20px white);
+}
+
+#loggedOut{
+    color: rgb(223, 16, 57);
+}
+#loggedOut:hover{
+    color: rgb(255, 3, 62);
+
+}
+#loggedIn{
+    color: rgb(8, 158, 8);
+}
+#loggedIn:hover{
+    color: rgb(14, 216, 14);
+
+}
+
+.login-ref{
+    width: 200px;
+}
+a.nav-brand{
+    margin: 5px;
+    font-weight: bold;
+    font-size: large;
+}
+
+ul{
+    list-style: none;
+} */
+.bg-grey {
+    background-color: rgba(243, 243, 243, 0.956);
+}
+
+.quickbites-logo {
+    font-family: "Kaushan Script", cursive;
+    font-weight: bolder;
+}
+
+.sub-heading {
+    font-family: "Carter One", cursive;
+    font-weight: lighter;
+}
+
+.nav-link:hover {
+    color: #ffd40a !important;
+}
+
+.navbar-brand {
+    font-family: "Kaushan Script", cursive;
+    font-weight: bolder;
+}
+
+#loggedOut {
+    color: rgb(223, 16, 57);
+}
+
+#loggedOut:hover {
+    color: rgb(255, 3, 62);
+
+}
+
+#loggedIn {
+    color: rgb(8, 158, 8);
+}
+
+#loggedIn:hover {
+    color: rgb(14, 216, 14);
+
+}

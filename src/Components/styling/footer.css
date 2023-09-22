@@ -1,0 +1,27 @@
+.bg-grey {
+    background-color: rgba(243, 243, 243, 0.956);
+  }
+
+  .quickbites-logo {
+    font-family: "Kaushan Script", cursive;
+    font-weight: bolder;
+  }
+
+  .sub-heading {
+    font-family: "Carter One", cursive;
+    font-weight: lighter;
+  }
+  /* footer styles */
+
+  .quickbites-footer {
+    text-align: start;
+    padding: 2rem 4rem;
+  }
+
+  @media only screen and (max-width: 575px) {
+    .quickbites-footer {
+      text-align: center;
+      line-height: normal;
+      padding: 20px 0px;
+    }
+  }

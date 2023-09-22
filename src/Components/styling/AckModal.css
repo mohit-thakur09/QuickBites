@@ -1,0 +1,24 @@
+.ack-modal{
+    position: fixed;
+    top:-5%;
+    left:40%;
+    padding-left: 10px;
+    font-size: large;
+    background-color: rgb(255, 255, 255);
+    border-top: 8px solid green;
+    color: green;
+    border-radius: 5px;
+    font-weight: bold;
+    z-index: 999;
+    transition:all ease-out 2s;
+}
+.svg-icon{
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+}
+
+.modal-show{
+    top: 7%;
+    /* visibility: hidden; */
+}

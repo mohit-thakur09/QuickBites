@@ -1,0 +1,39 @@
+/* 
+.h-custom {
+    height: calc(100% - 73px);
+}
+
+@media (max-width: 450px) {
+    .h-custom {
+        height: 100%;
+    }
+} */
+
+.sub-heading {
+    font-family: "Carter One", cursive;
+    font-weight: lighter;
+  }
+
+  .box-area {
+    width: 930px;
+  }
+
+  ::placeholder {
+    font-size: 16px;
+  }
+
+  .login-container{
+    margin: 100px auto;
+  }
+
+  @media only screen and (max-width: 768px) {
+
+    .box-area {
+      margin: 0 10px;
+    }
+
+    .left-box {
+      height: 200px;
+      overflow: hidden;
+    }
+  }

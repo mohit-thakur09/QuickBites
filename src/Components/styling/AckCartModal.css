@@ -1,0 +1,18 @@
+.cart-ack-modal{
+    position: fixed;
+    top: 90%;
+    margin: auto;
+    width: 80%;
+    padding: 0.5rem 3rem;
+    background-color: rgba(30, 190, 30, 0.90);
+    color: white;
+    z-index: 999;
+}
+
+@media screen and (max-width:576px){
+    .cart-ack-modal{
+        padding: 0.5rem 0px;
+        margin: auto;
+        width: 90%;
+    }
+}

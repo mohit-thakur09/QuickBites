@@ -1,0 +1,44 @@
+.cart-user-div{
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    background-color: rgb(231, 229, 229);
+}
+
+.cartDiv,.sum{
+    /* text-align: center; */
+    /* width: 100%; */
+    color: black;
+    background-color: rgb(201, 198, 198);
+    margin: 10px ;
+    border-top: 8px solid green;
+}
+
+.btn-ord {
+    background-color: rgba(30, 190, 30, 0.90);
+    /* text-align: center; */
+    width: 80%;
+    font-size: large;
+    font-weight: bold;
+    border: 2px solid;
+}
+
+.cart-item{
+    /* background-color: rgb(193, 189, 189); */
+    margin-left: 35%;
+
+}
+
+.user-details-container{
+    background-color: rgba(255, 255, 255, 0.736);
+   }
+
+   
+   .toppings-container {
+    height: 50px;
+  }
+
+  .accordion-button:not(.collapsed) {
+    background-color: rgba(243, 243, 243, 0.956);
+    box-shadow: none;
+  }

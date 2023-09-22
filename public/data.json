@@ -1,0 +1,28 @@
+{
+    "all_items":[
+        {
+            "id":"p1",
+            "item_Name":"Pizza",
+            "pro_img_src":"../images/farmers-pick.jpg"
+        },
+        {
+            "id":"p2",
+            "item_Name":"Baverages",
+            "pro_img_src":"../images/pepsi-black.jpg"
+        },
+        {
+            "id":"p3",
+            "item_Name":"Sides",
+            "pro_img_src":"../images/classic-makhni-pasta.jpg"
+        },
+        
+        {
+            "id":"p6",
+            "item_Name":"Desserts",
+            "pro_img_src":"../images/choco-sundaE.jpg"
+        }
+    ]
+}
+
+
+        

@@ -1,0 +1,96 @@
+/* .home{ 
+  background-image: url("../../images/pizza-bg.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.loc-div{
+  background-color: rgba(28, 27, 27, 0.5);
+  position: relative;
+  top: 20%;
+  right: 25%;
+  width: 500px;
+  padding: 50px;
+  border-radius: 8px;
+}
+.mid-features{
+  position: relative;
+  top:500px;
+  margin: auto;
+  
+}
+
+.footer{
+  
+  display: block;
+  position: absolute;
+  top: auto;
+  background-color: black;
+
+} */
+
+.yellow-gradient-right {
+  background: linear-gradient(to right, #ffffbf, #ffd40a);
+}
+
+.yellow-gradient-left {
+  background: linear-gradient(to left, #ffffbf, #ffd40a);
+}
+
+.bg-grey {
+  background-color: rgba(243, 243, 243, 0.956);
+}
+
+.sub-heading {
+  font-family: "Carter One", cursive;
+  font-weight: lighter;
+}
+
+.counting-cards {
+  height: 100%;
+}
+
+.ads-container,
+.fries-ads-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.carousel-caption:hover {
+  color: #ffd40a;
+}
+
+.bg-diagonal {
+  background-image: linear-gradient(to bottom left,
+      #fff 50%,
+      #ffd40a 50%);
+  z-index: 100;
+}
+
+.loc-container {
+  margin: 40px 100px;
+}
+
+@media screen and (max-width: 700px) {
+  .ads-container {
+    flex-direction: column-reverse;
+  }
+
+  .fries-ads-container {
+    flex-direction: column;
+  }
+
+  .loc-container {
+    margin: 20px 50px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .loc-img {
+    width: 150px;
+  }
+
+  .loc-container {
+    margin: 20px 30px;
+  }
+}

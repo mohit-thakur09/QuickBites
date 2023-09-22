@@ -1,0 +1,42 @@
+.yellow-gradient-right {
+    background: linear-gradient(to right, #ffffbf, #FFD40A);
+}
+
+.menu-card {
+    height: 350px;
+    /* transition: height 4s ease-out; */
+}
+
+.item-desc{
+    height: 100px;
+    overflow: auto;
+    
+}
+
+.menu-card-img {
+    position: relative;
+    top: -40px;
+}
+
+/* .content {
+    visibility: hidden;
+}
+
+.menu-card:hover {
+    height: fit-content;
+
+}
+
+.menu-card:hover .content {
+    visibility: visible;
+} */
+
+.menu-item {
+    margin-top: -20px;
+}
+
+@media screen and (max-width: 576px) {
+    .menu-page-heading {
+        width: 100%;
+    }
+}
