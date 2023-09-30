@@ -3,7 +3,7 @@ import React, { useContext, useState } from 'react'
 
 const CartCardItem = (props) => {
     let cartVal = useContext(Cart);
-    let [quant, setQuant] = useState();
+    let [, setQuant] = useState();
     let imgName = props.cartItem.item_img_src;
 
     let changeQuantity = (e) => {
@@ -18,7 +18,7 @@ const CartCardItem = (props) => {
 
         let itemIndex = cartVal.cartData.findIndex(i => i.pro_id === id);
 
-        console.log(cartVal.cartData);
+        // console.log(cartVal.cartData);
         setQuant(cartVal.cartData[itemIndex].quantity)
 
         if (operation === 'plus') {
@@ -61,11 +61,9 @@ const CartCardItem = (props) => {
                     <h4 className='text-start'>{props.cartItem.pro_name}</h4>
                     <h6 className='text-end pt-3'>Rs. {props.cartItem.price}</h6>
                 </div>
-            </div> */}
+            </div>  */}
             {
-                console.log(quant)
-                    (props.cartItem.pro_id.includes("p1")) && (
-
+                (props.cartItem.pro_id.includes("p1")) && (
                     <div className="accordion-item">
                         <h2 className="accordion-header">
                             <button

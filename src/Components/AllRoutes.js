@@ -29,6 +29,7 @@ const AllRoutes = (props) => {
       }
       window.localStorage.setItem(props.userName, JSON.stringify(userData));
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [props.userName])
 
   useEffect(() => {
@@ -38,6 +39,7 @@ const AllRoutes = (props) => {
       userData.cart = cartData;
       window.localStorage.setItem(props.userName, JSON.stringify(userData));
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [cartData])
 
   let itemSubRoutes = () => {
@@ -51,7 +53,7 @@ const AllRoutes = (props) => {
   return (
     <>
       <Routes>
-        <Route path="/quick-bites" element={<Home />}></Route>
+        <Route path="/" element={<Home />}></Route>
         <Route path="/products" element={<Provider value={{ cartData, setCartData }}><Products /></Provider>}></Route>
         <Route path="/products/:itemName/:ele" element={<Provider value={{ cartData, setCartData }}><ProductItems /></Provider>}></Route>
         <Route path="/products/:itemName/:ele/:item_id" element={itemSubRoutes()}></Route>

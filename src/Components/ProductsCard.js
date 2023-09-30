@@ -26,7 +26,7 @@ const ProductsCard = (props) => {
             {
                 props.alterKey % 2 === 0
                     ? (
-                        <div className="row mt-5 menu-option-card-right p-4 rounded-3 w-75 m-auto">
+                        <div className="row mt-5 menu-option-card-right p-4 rounded-3 w-75 m-auto ">
                             <div className="col-md-4 text-center">
                                 <img src={props.data.pro_img_src} alt="" className="img-fluid rounded-3" width="300px" />
                             </div>

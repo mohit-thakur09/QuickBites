@@ -46,6 +46,12 @@ const AckCartModal = () => {
                             </div>
                         </div>
                     </div>
+
+                    // <div className='row cart-ack-modal text-dark'>
+                    //     <div className='col-8  m-auto  bg-primary'>
+                    //         hello
+                    //     </div>
+                    // </div>
                 )
             }
         </>

@@ -1,6 +1,7 @@
 import React, { useContext, useState, useEffect } from 'react'
 import { useLocation } from 'react-router-dom';
 import "./styling/PizzaStyle.css";
+import './styling/AckCartModal.css';
 import AckModal from './AckModal';
 import { Cart } from './context';
 import AckCartModal from './AckCartModal';
@@ -174,8 +175,8 @@ const ItemPizzaDetail = () => {
                             </div>
                         </div>
                     )}
-            </main >
             <AckCartModal />
+            </main >
         </>
     )
 }
