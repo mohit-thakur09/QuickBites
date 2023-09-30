@@ -65,14 +65,8 @@ const ProductItems = () => {
                 {itemList && itemList.map((i, e) => {
                     return <ItemCard key={e} data={i} setAdd={haddleAck} />
                 })}
-                
-                {/* {console.log("types of item")} */}
-                
-                <div className='w-75 m-auto'>
-                    <AckCartModal />
-                </div>
-
             </div>
+            <AckCartModal />
         </>
     )
 }

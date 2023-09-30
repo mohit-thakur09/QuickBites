@@ -175,8 +175,8 @@ const ItemPizzaDetail = () => {
                             </div>
                         </div>
                     )}
-            <AckCartModal />
             </main >
+            <AckCartModal />
         </>
     )
 }

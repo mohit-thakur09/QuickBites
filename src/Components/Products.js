@@ -54,8 +54,8 @@ const Products = () => {
                         <ProductsCard alterKey={e} data={i} element={ref} />
                     </div>
                 })}
-                <AckCartModal />
             </div>
+            <AckCartModal />
         </>
     )
 }
